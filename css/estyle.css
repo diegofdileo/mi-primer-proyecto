@@ -38,18 +38,18 @@ footer p {
 /*contato*/
 
 #bg-contacto {
-  position: fixed;
+  position: static;
   bottom: -250px;
 }
 #seccion-contacto {
   background-color: white;
   min-height: 500px;
-  position: fixed;
+  position: static;
 }
 
 #contenedor-formulario {
   position: fixed;
-  bottom: -25px;
+  bottom: -250px;
   left: 50%;
   transform: translate(-50%, -50%);
   background: #ec86c7;
